@@ -1,5 +1,5 @@
 const countdown = document.querySelector('.countdown');
-const launchDate = new Date('Dec 25, 2020 00:00:01');
+const launchDate = new Date('feb 5, 2021 06:40:01');
 
 const interval = setInterval(()=>{
     
